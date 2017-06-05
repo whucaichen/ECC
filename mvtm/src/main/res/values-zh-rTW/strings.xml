@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">工銀亞洲e通訊</string>
+    <string name="action_settings">設置</string>
+
+    <string name="ecc_service_end">本次服務結束</string>
+    <string name="ecc_tab_video">音視頻</string>
+    <string name="ecc_tab_msg">消息</string>
+    <string name="ecc_tab_doc">文檔</string>
+    <string name="ecc_tab_exit">掛斷</string>
+    <string name="ecc_no_share_data">暫無文檔共享</string>
+    <string name="ecc_send_hint">請輸入要發送的內容</string>
+    <string name="ecc_send">發送</string>
+    <string name="ecc_calling">正在呼叫</string>
+    <string name="ecc_title">工銀亞洲</string>
+    <string name="ecc_action_speaker">揚聲器</string>
+    <string name="ecc_action_earphone">耳機</string>
+    <string name="ecc_action_camera">切換攝像頭</string>
+    <string name="ecc_network_error">網絡異常</string>
+    <string name="ecc_logining">正在登錄中…</string>
+    <string name="ecc_exit_app">是否退出應用</string>
+    <string name="ecc_confirm">確認</string>
+    <string name="ecc_cancel">取消</string>
+    <string name="ecc_text_connect">文字連接成功</string>
+    <string name="text_send_fail">消息發送失敗</string>
+    <string name="switch_camera">切換攝像頭</string>
+    <string name="login_fail">用戶已登錄/網絡異常</string>
+    <string name="login_success">登錄成功</string>
+    <string name="text_disconnect">斷開連接</string>
+    <string name="audio_call_disconnect">音頻連接斷開</string>
+    <string name="call_success">語音連接成功</string>
+    <string name="queue_timeout">排隊超時</string>
+    <string name="call_fail_return">呼叫失敗</string>
+    <string name="call_end">呼叫結束</string>
+    <string name="net_loop_fail">網絡異常</string>
+    <string name="exit_meeting">會議結束</string>
+    <string name="ecc_agent_busy">座席忙，請稍後再撥</string>
+    <string name="connect_fail">連接失敗</string>
+    <string name="ecc_handle">正在處理中…</string>
+    <string name="ecc_audio_calling">正在語音呼叫…</string>
+    <string name="ecc_update_video">正在升級視頻…</string>
+    <string name="ecc_queuing">正在排隊中…</string>
+    <string name="ecc_permission">請設置攝像機權限</string>
+    <string name="login">登錄</string>
+    <string name="ecc_set_permission">設置權限</string>
+    <string name="ecc_update_error">升級視頻失敗</string>
+    <string name="ecc_permission_deny">歡迎您使用工銀亞洲私人銀行視頻服務。\n攝像頭使用未獲得權限，暫無法提供視頻服務，如若需要啟動視頻服務，請為工銀亞洲視頻服務開放攝像頭權限。</string>
+    <string name="ecc_video_load">歡迎您使用工銀亞洲私人銀行視頻服務，請在視頻接通後點擊確認按鈕。\n為保證服務質量，以下內容將會被錄音。</string>
+    <string name="ecc_msg_connected">消息連接成功</string>
+
+</resources>

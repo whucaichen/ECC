@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ECC.iml" filepath="$PROJECT_DIR$/ECC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvtm/mvtm.iml" filepath="$PROJECT_DIR$/mvtm/mvtm.iml" />
+    </modules>
+  </component>
+</project>

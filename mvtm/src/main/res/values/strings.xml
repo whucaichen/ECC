@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ICBCA mVTM</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ecc_service_end">End of the service</string>
+    <string name="ecc_tab_video">Video</string>
+    <string name="ecc_tab_msg">Message</string>
+    <string name="ecc_tab_doc">File</string>
+    <string name="ecc_tab_exit">Hangup</string>
+    <string name="ecc_no_share_data">No File</string>
+    <string name="ecc_send_hint">please enter msg</string>
+    <string name="ecc_send">send</string>
+    <string name="ecc_calling">Awaiting response</string>
+    <string name="ecc_title">ICBCA</string>
+    <string name="ecc_action_speaker">speaker</string>
+    <string name="ecc_action_earphone">receiver</string>
+    <string name="ecc_action_camera">Switch Camera</string>
+
+    <string name="ecc_network_error">network error</string>
+    <string name="ecc_logining">logining…</string>
+    <string name="ecc_exit_app">Exit</string>
+    <string name="ecc_confirm">Confirm</string>
+    <string name="ecc_cancel">cancel</string>
+    <string name="ecc_text_connect">text connected</string>
+    <string name="text_send_fail">text send fail</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="login_fail">This account has been logged in a different device or network error</string>
+    <string name="login_success">login success</string>
+    <string name="text_disconnect">text connect disconnect</string>
+    <string name="audio_call_disconnect">audio call disconnect</string>
+    <string name="call_success">call success</string>
+    <string name="queue_timeout">queue timeout</string>
+    <string name="call_fail_return">call fail</string>
+    <string name="call_end">end call</string>
+    <string name="net_loop_fail">network error</string>
+    <string name="exit_meeting">end meeting</string>
+    <string name="ecc_agent_busy">The line is busy now, please try again later.</string>
+    <string name="connect_fail">connect fail</string>
+    <string name="ecc_handle">handling…</string>
+    <string name="ecc_audio_calling">audio calling…</string>
+    <string name="ecc_update_video">video updating…</string>
+    <string name="ecc_queuing">queuing…</string>
+    <string name="ecc_permission">please set camera permission</string>
+    <string name="login">login</string>
+    <string name="ecc_set_permission">permission</string>
+    <string name="ecc_update_error">update video error</string>
+    <string name="ecc_permission_deny">welcome to use the Private Banking Video Service.\nPlease allow camera access for ICBC(Asia）mVTM in your Phone settings</string>
+    <string name="ecc_video_load">welcome to use the Private Banking Video Service, nplease press "confirm" after connecting to the video.\nTo ensure the quality of the service, the conversation will be recorded.</string>
+    <string name="ecc_msg_connected">message connected</string>
+
+</resources>

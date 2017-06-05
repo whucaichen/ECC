@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_speaker"
+        android:icon="@drawable/action_speaker"
+        android:orderInCategory="100"
+        android:title="@string/ecc_action_speaker"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_earphone"
+        android:icon="@drawable/action_earphone"
+        android:orderInCategory="100"
+        android:title="@string/ecc_action_earphone"
+        app:showAsAction="never" />
+    <!--app:showAsAction="always"-->
+
+    <item
+        android:id="@+id/action_camera"
+        android:icon="@drawable/action_camera"
+        android:orderInCategory="100"
+        android:title="@string/ecc_action_camera"
+        app:showAsAction="never" />
+
+</menu>
